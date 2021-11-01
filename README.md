@@ -5,6 +5,7 @@ Hello! I'm **front-developer** Dan:D.
 
 ### ⚒️ SIKIILS
 ![N|HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white) ![N|CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white) ![N|JS ES5](https://img.shields.io/badge/JavaScript_es5-yellow?style=flat-square&logo=JavaScript&logoColor=white) ![N|JS ES6](https://img.shields.io/badge/JavaScript_es6-yellow?style=flat-square&logo=JavaScript&logoColor=white)
+
 ![N|React](https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white) ![N|styled componnent](https://img.shields.io/badge/💅_styled--componnent-pink?style=flat-square&logo=styledcomponnent&logoColor=white)
 
 
