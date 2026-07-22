@@ -1,4 +1,4 @@
-
+![metrics](https://github.com/kangdanne/kangdanne/raw/main/metrics.svg)
 # KANG Dan
 
 Hello! I'm **frontend developer** Dan:D.
